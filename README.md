@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ErgoGuard Chair (4‑FSR Version) 🪑
 ### Context-Aware Posture + Sedentary Risk Chair for IT Workers
 
@@ -299,3 +300,7 @@ Folder: `frontend/`
 - If you plan to commercialize, use `PATENT_DOCUMENTATION.md` as a starting point for novelty and claims.
 
 **Built with ❤️ to protect your spine while you code.**
+=======
+# ERGO-GUARD-CHAIR
+ErgoGuard Chair is an AI and IoT-enabled smart ergonomic chair that monitors posture, sitting duration, and environmental conditions using intelligent sensors. It provides real-time posture correction through vibration alerts and displays health insights on a web dashboard, helping reduce fatigue, improve comfort, and promote healthier living.
+>>>>>>> cb20d8cf073afa97c2da48f00c26c9399389c1b0
