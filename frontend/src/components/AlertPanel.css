@@ -1,0 +1,89 @@
+.alert-panel {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.alert-panel h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.alert-banner {
+  padding: 15px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+  color: white;
+  font-weight: 600;
+}
+
+.alert-icon {
+  font-size: 24px;
+}
+
+.alert-message {
+  flex: 1;
+  font-size: 16px;
+}
+
+.recommendations {
+  margin: 20px 0;
+}
+
+.recommendations h3 {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.recommendations ul {
+  list-style: none;
+  padding: 0;
+}
+
+.recommendations li {
+  padding: 8px 0;
+  padding-left: 25px;
+  position: relative;
+  color: #666;
+}
+
+.recommendations li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #2196F3;
+  font-weight: 600;
+}
+
+.environment-info {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.environment-info h3 {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.env-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  color: #666;
+}
+
+.env-item label {
+  font-weight: 600;
+}
+
+.env-item span {
+  color: #333;
+}
+
