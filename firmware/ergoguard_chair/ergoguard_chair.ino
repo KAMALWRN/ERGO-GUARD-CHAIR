@@ -59,8 +59,8 @@ const float FSR_GAIN = 4.0f;
 Adafruit_MPU6050 mpu;
 
 // ==================== WIFI CONFIGURATION ====================
-const char* ssid = "Kamal's OnePlus";
-const char* password = "123455678";
+const char* ssid = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
 const char* serverURL = "http://192.168.250.92:3000/api/sensor-data";
 
 // ==================== SENSOR DATA STRUCTURE ====================
